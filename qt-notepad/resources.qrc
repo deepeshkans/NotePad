@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>Icons/icons8-about-48.png</file>
+        <file>Icons/icons8-copy-64.png</file>
+        <file>Icons/icons8-cut-48.png</file>
+        <file>Icons/icons8-new-24.png</file>
+        <file>Icons/icons8-open-64.png</file>
+        <file>Icons/icons8-paste-64.png</file>
+        <file>Icons/icons8-redo-48.png</file>
+        <file>Icons/icons8-save-48.png</file>
+        <file>Icons/icons8-save-as-48.png</file>
+        <file>Icons/icons8-undo-48.png</file>
+    </qresource>
+</RCC>
